@@ -1,4 +1,4 @@
-package demo.springmvc.blog.controller;
+testtest package demo.springmvc.blog.controller;
 
 import java.util.Locale;
 
